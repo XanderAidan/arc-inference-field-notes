@@ -1,0 +1,5 @@
+*.gguf
+*.log
+out/
+__pycache__/
+.DS_Store
